@@ -111,7 +111,7 @@ const Merge = () => {
 
   return (
     <div className="min-h-screen bg-white p-6">
-      <div className="flex w-full justify-between px-4 font-bold text-xl mb-12">
+      <div className="flex w-full justify-between items-center px-4 font-bold text-xl mb-12">
         <a href="/" className="text-green-700 ">PDF Tool Kit</a>
         <a
           href="https://github.com/hemanthk04/"
