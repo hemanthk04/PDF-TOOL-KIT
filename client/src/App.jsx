@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Home from './pages/home';
 import Merge from './pages/merge';
-import Lock from './pages/lock';
+import Lock from './pages/locked';
 import ImageToPDF from './pages/imagetopdf';
 import PDFtoZIP from './pages/pdfcompressor';
 
